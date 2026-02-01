@@ -16,7 +16,7 @@
 - **Mobile:** Flutter, Dart
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
-- **Frontend:** HTML, CSS
+- **Frontend:** HTML, CSS , Js
 - **Tools:** Git, GitHub, Figma
 
 ---
