@@ -30,6 +30,7 @@
 
 ### 🔥 Backend & Services
 - Firebase (Auth, Firestore)
+- Supabase
 - PHP & Laravel (Basic Integration)
 - MySQL
 
@@ -38,23 +39,6 @@
 - Figma
 - Postman
 
----
-
-## 🚀 Featured Flutter Projects
-📘 **LMS Project**  
-Learning Management System UI built with Flutter  
-- Clean UI
-- Responsive Design
-
-🏥 **Doctor Plus**  
-Doctor Appointment Booking App  
-- Flutter UI
-- Real-world app structure
-
-🍕 **Pizza Order App**  
-Simple ordering app (UI + Logic)
-
-👉 Check **Pinned Repositories** for source code 👇
 
 ---
 
@@ -67,9 +51,9 @@ Simple ordering app (UI + Logic)
 
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/abdulsalam-alhelal-6a5ba3274/
-- 📧 Email: (Add if you want)
-- 📸 Instagram
-- 🐦 Twitter
+- 📧 Email: (ad.alhelal98@gmail.com)
+- 📸 Instagram : Alhelal_official
+- 🐦 Twitter : ALHELALofficial
 
 ---
 
