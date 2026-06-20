@@ -42,13 +42,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAbdulSalam&show_icons=true&theme=dark" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/abdulsalam-alhelal-6a5ba3274/
 - 📧 Email: (ad.alhelal98@gmail.com)
