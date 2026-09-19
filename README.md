@@ -50,17 +50,17 @@
 
 ---
 
-### 📊 GitHub Activity
+### ⚡ Engineering Highlights
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ItsAbdulSalam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+- 🎯 **Mobile Architecture:** Proficient in building modular Flutter applications using **Clean Architecture** and strict separation of concerns.
+- 🔄 **Reactive State Management:** Deep practical experience with **BLoC / Cubit** patterns ensuring predictable data flow.
+- 🚀 **End-to-End Delivery:** Proven ability to configure release pipelines, handle keystores/AABs, and navigate Google Play production reviews.
+- 🌐 **Robust Networking:** Type-safe REST API integration, error catching, and offline resiliency.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAbdulSalam&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAbdulSalam&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ItsAbdulSalam&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</div>
 
 ---
 
